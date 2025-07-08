@@ -1,0 +1,2 @@
+This project focuses on building a secure, end-to-end DevSecOps CI/CD pipeline tailored for a startup in the FinTech industry. The application architecture is microservices-based, deployed on AWS using Amazon EKS. By adopting a shift-left security strategy, security is integrated at every phase of the development and deployment lifecycle, ensuring functionality, compliance, and resilience against vulnerabilities.
+The pipeline simulates a production-grade delivery environment, emphasizing automation, continuous security, compliance, and scalability using GitHub Actions.
